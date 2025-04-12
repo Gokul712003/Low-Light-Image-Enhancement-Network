@@ -80,7 +80,3 @@ Running the test notebook will output the average PSNR, SSIM, VIFP, and AB metri
 
 *   Credit to **Praveen Ravirathinam** for the original C-LIENet implementation and paper.
 *   Thanks to the creators of the **LOL Dataset**.
-
-## License
-
-*(Consider adding a license here. If the original project has a license, it's often appropriate to use the same one. Otherwise, MIT or Apache 2.0 are common choices for open-source projects.)*
